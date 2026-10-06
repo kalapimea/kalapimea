@@ -1,16 +1,39 @@
-## Hi there 👋
+# About Me 👋
+I'm Kalapimea/Atte, an aspiring developer based in Finland. Currently studying in lower secondary school.  
 
-<!--
-**kalapimea/kalapimea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My programming experience goes all the way back to third grade where I wrote my first ever programs, but CS and coding really started picking up as a hobby in the sixth grade.  
 
-Here are some ideas to get you started:
+Since then I have built multiple personal projects across different languages, as well as kept learning new technologies and languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technologies 💻
+I mainly do backend and CLI type stuff, but have recently been branching more into other stuff as well
+
+## Languages ⚙️
+- Python
+- C#
+- HTML / CSS (Partially)
+- TypeScript (Learning)
+
+## Tools & Platforms
+- Linux
+- Git
+
+# Other Hobbies 📚
+## Languages 🌍
+- 🇫🇮 Finnish: Native
+- 🇺🇸 English: C2
+- 🇸🇪 Swedish: ~B1-B2
+- 🇩🇪 German: ~A2-B1  
+## Speedcubing 🟩
+- PB (unofficial) 3X3: 15.29
+- PR (official) 3X3: 19.89
+- Fav event: 2X2
+- Fav alg: H-Perm
+## Math 🤓
+- Fav formula: quadratic formula
+- Fav branch: calculus  
+
+# What I'm working on 💡
+- First full stack project
+- Thinking about finishing my custom BrainFuck dialect
+- CLI school tracker for upper secondary
